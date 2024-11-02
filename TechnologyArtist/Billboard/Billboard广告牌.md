@@ -101,3 +101,6 @@ float3 tempUp = abs(CameraVector.y) > 0.999 ? float3(0, 0, 1) : float3(0, 1, 0);
 - **乘法累加**：累加操作直接更改顶点的实际位置，将原始坐标分量分别与新的基向量相乘累加，从而更改顶点在新坐标系中的位置。这种方法更适合动态调整每个顶点，使其在新的坐标系中位置随时更新。
 
 通过这些步骤，你可以在 Unity URP 中实现一个灵活的 Billboard 效果。
+
+## 参考
+[bilbil小坛子熊的视频](https://www.bilibili.com/video/BV18NSoY6EnB)
