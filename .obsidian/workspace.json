@@ -11,10 +11,14 @@
             "id": "d1ba6902d3b702c8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "DesignPatterns/策略模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "策略模式"
             }
           }
         ]
@@ -154,8 +158,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d1ba6902d3b702c8",
+  "active": "a71b26351dd28831",
   "lastOpenFiles": [
+    "DesignPatterns/享元模式.md",
+    "DesignPatterns/单例模式.md",
+    "DesignPatterns/策略模式.md",
+    "Godot/Godot入门.md",
+    "Godot/GDScript的命名规范.md",
     "CPP/STL容器/vector.md",
     "Markdown语法.md",
     "Python/Python命名规范.md",
