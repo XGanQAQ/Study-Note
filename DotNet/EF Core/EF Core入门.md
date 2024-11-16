@@ -9,7 +9,18 @@ ORM（对象关系映射）是一种将编程语言的对象与数据库表关�
 在ASP.NET Core项目中使用EF Core，可以通过NuGet包管理器安装：
 ```bash
 dotnet add package Microsoft.EntityFrameworkCore
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+#数据库提供程序插件
+#SqlServer数据库
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer 
+#可选SQLite数据库
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 8.0
+
+# EF Core 工具：EF Core 工具执行设计时开发任务。 例如，它们基于现有数据库创建迁移、应用迁移和生成模型代码。
+dotnet tool install --global dotnet-ef
+
+# Microsoft.EntityFrameworkCore.Design：包含 EF Core 用于创建数据库的所有设计时逻辑。
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0
 ```
 
 ### 3. 定义数据模型
