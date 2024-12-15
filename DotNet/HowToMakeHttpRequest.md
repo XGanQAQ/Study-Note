@@ -6,7 +6,7 @@
 - 反序列化（Deserialize）JSON数据
 - 使用特性Attributes来进行反序列化配置
 
-## 构建Http请求
+## 构建并发送Http请求
 ```csharp
 using System.Net.Http.Headers;
 
@@ -28,7 +28,8 @@ static async Task ProcessRepositoriesAsync(HttpClient client)
 
 ```
 
-## 反序列化JSON请求
+## 将接收到的Json消息反序列化为对象
+通过反序列化，将JSON数据转换为C#对象
 ```csharp
 // record类型，这种声明可以自动构造出参数里的属性
 public record class Repository(string name);
@@ -40,6 +41,8 @@ var repositories =
 ```
 
 ## 配置反序列化
+按照默认的配置，反序列化后的属性名称与JSON数据中的属性名称一致。但是为了更好的理解，可以通过特性Attributes来进行反序列化配置。  
+示例为了让反序列化后的属性名称与C#的命名规范一致，使用了`JsonPropertyName`特性。
 ```csharp
 using System.Text.Json.Serialization;
 
@@ -69,7 +72,7 @@ public record class Repository(
 }
 ```
 
-主函数
+总流程全代码
 ```csharp
 using System.Net.Http.Headers;
 using System.Text.Json;
