@@ -56,6 +56,10 @@ for (const auto& pair : m) {
 }
 ```
 
+- `pair.first`：键
+- `pair.second`：值
+
+
 ### 3. 示例代码
 
 以下是一个使用 `map` 的例子，实现了一个简单的词频统计：
