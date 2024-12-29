@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1d709eebf4a5e841",
+        "id": "c42b9fed076735f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d1ba6902d3b702c8",
+            "id": "3661387371703667",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DesignPatterns/策略模式.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "策略模式"
+              "title": "新标签页"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "acd436febc164b8c",
@@ -93,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/DotNet/Asp.netCore/Database Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Database Fundamentals 的反向链接列表"
             }
           },
           {
@@ -111,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "CS/DotNet/Asp.netCore/Database Fundamentals.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Database Fundamentals 的出链列表"
             }
           },
           {
@@ -125,7 +123,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -136,16 +134,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CS/DotNet/Asp.netCore/Database Fundamentals.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Database Fundamentals 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 252.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,21 +156,48 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "a71b26351dd28831",
   "lastOpenFiles": [
-    "DesignPatterns/享元模式.md",
-    "DesignPatterns/单例模式.md",
-    "DesignPatterns/策略模式.md",
-    "Godot/Godot入门.md",
-    "Godot/GDScript的命名规范.md",
-    "CPP/STL容器/vector.md",
-    "Markdown语法.md",
-    "Python/Python命名规范.md",
-    "Python/双下划线的含义.md",
-    "2024-10-29.md",
-    "Database数据库/如何配置远程服务器MySQL数据库.md"
+    "CS/DotNet/Asp.netCore/aspnet-core.png",
+    "CS/DotNet/Asp.netCore/如何部署你的应用程序.md",
+    "CS/CodeLanguege/C/文件读取.md",
+    "未命名.canvas",
+    "CS/CodeLanguege/C/文件夹读取.md",
+    "CS/CodeLanguege/C/字符串处理.md",
+    "Tattle/职业规划/职业目标.md",
+    "Tattle/职业规划/以经营企业的角度经营自己的职业生涯.md",
+    "GameDeveloper/GameEngine/OwnEngine.md",
+    "README.md",
+    "CS/OperationSystem/南京大学2023操作系统/绪论/02应用视角的操作系统.md",
+    "CS/OperationSystem/南京大学2023操作系统/并发",
+    "CS/OperationSystem/南京大学2023操作系统/绪论",
+    "CS/OperationSystem/Linux/Linux配置clash.md",
+    "GameDeveloper",
+    "CS/CodeLanguege",
+    "CS",
+    "CS/Tool/Git",
+    "CS/OperationSystem/Linux/scp传输文件.md",
+    "CS/OperationSystem/Linux/Tmux.md",
+    "CS/Tool/Vscode/如何设置vscode的UI大小.md",
+    "CS/Tool/Vscode",
+    "CS/OperationSystem/Linux/远程桌面.md",
+    "CS/OperationSystem/Linux/使用v2ray配置代理.md",
+    "CS/OperationSystem/Linux/配置网络代理.md",
+    "CS/OperationSystem/南京大学2023操作系统/homework/M1打印进程树 (pstree).md",
+    "CS/DotNet/HowToMakeHttpRequest.md",
+    "未命名.md",
+    "CS/CodeLanguege/C",
+    "CS/DesignPatterns/单例和静态的区别及其缺点.md",
+    "CS/DotNet/Linq/Linq入门示范.md",
+    "CS/OperationSystem/南京大学2023操作系统/绪论/03硬件视角的操作系统.md",
+    "CS/OperationSystem/南京大学2023操作系统/绪论/04数学视角的操作系统.md",
+    "Markdown格式教程.md",
+    "2024-12-28.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas"
   ]
 }
