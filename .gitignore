@@ -1,0 +1,5 @@
+# 忽略我的灵感文件
+Temp/
+.obsidian/
+.vscode/
+.gitignore/
