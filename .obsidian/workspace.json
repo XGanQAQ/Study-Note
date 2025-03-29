@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c42b9fed076735f1",
+        "id": "2ee8a76035c0fcf0",
         "type": "tabs",
         "children": [
           {
-            "id": "3661387371703667",
+            "id": "6ceb69ac9d8f0485",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "CS/OperationSystem/南京大学2025操作系统/虚拟化/05程序与进程：进程管理API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05程序与进程：进程管理API"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "acd436febc164b8c",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DotNet/Asp.netCore/Database Fundamentals.md",
+                "file": "CS/ComputerGraphy/GraphicsOpenGL/04.管理3D图形数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Database Fundamentals 的反向链接列表"
+              "title": "04.管理3D图形数据 的反向链接列表"
             }
           },
           {
@@ -108,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DotNet/Asp.netCore/Database Fundamentals.md",
+                "file": "CS/ComputerGraphy/GraphicsOpenGL/04.管理3D图形数据.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Database Fundamentals 的出链列表"
+              "title": "04.管理3D图形数据 的出链列表"
             }
           },
           {
@@ -123,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -135,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DotNet/Asp.netCore/Database Fundamentals.md"
+                "file": "CS/ComputerGraphy/GraphicsOpenGL/07光照.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Database Fundamentals 的大纲"
+              "title": "07光照 的大纲"
             }
           }
         ],
@@ -159,44 +169,55 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3661387371703667",
+  "active": "6ceb69ac9d8f0485",
   "lastOpenFiles": [
-    "CS/OperationSystem/南京大学2023操作系统/homework/L0为计算机硬件编程.md",
-    "CS/DotNet/Asp.netCore/aspnet-core.png",
-    "CS/DotNet/Asp.netCore/如何部署你的应用程序.md",
-    "CS/CodeLanguege/C/文件读取.md",
+    "CS/OperationSystem/南京大学2024操作系统/homework/M2协程库.md",
+    "CS/OperationSystem/南京大学2025操作系统/虚拟化/05程序与进程：进程管理API.md",
+    "CS/OperationSystem/南京大学2025操作系统/虚拟化",
+    "CS/OperationSystem/南京大学2025操作系统",
+    "CS/OperationSystem/南京大学2024操作系统/homework/M1打印进程树 (pstree).md",
+    "CS/OperationSystem/南京大学2024操作系统/homework/L0为计算机硬件编程.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/12 并发BUG.md",
+    "CS/AI/DiveIntoDeepLearning/概述.md",
+    "Tattle/Github开源工具/列表.md",
+    "CS/AI/DiveIntoDeepLearning",
+    "CS/ComputerGraphy/计算机图形学-福建师范大学/04 图元生成.md",
+    "Tattle/Github开源工具",
+    "Tattle/工作效率/未命名",
+    "CS/ComputerGraphy/MyRenderer/OpenGL阶段性实验项目.md",
+    "CS/DesignPatterns/FunctionProgram/函数式编程.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/11真实世界的并发编程.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/10并发控制：同步1 信号量.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/09并发控制：同步1 生产者消费者模型 条件变量.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/08调试理论与实践.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/07并发控制：互斥2.md",
+    "CS/OperationSystem/南京大学2024操作系统/并发/05多处理器编程.md",
+    "Tattle/学习计划.md",
+    "Tattle/Ideas/工具：个人代码仓库.md",
+    "LLM框架示意图.png",
+    "CS/CodeLanguege/CSharp/CSharp函数式编程.md",
+    "CS/CodeLanguege/CSharp/Delegate 委托.md",
+    "CS/CodeLanguege/CSharp/Extension Methods 扩展方法.md",
+    "CS/DesignPatterns/FunctionProgram/函数式设计/01.不变性.md",
+    "CS/DesignPatterns/FunctionProgram/什么是图灵机.md",
+    "CS/DesignPatterns/FunctionProgram/lambda算法与图灵机.md",
+    "GameDeveloper/GameEngine/Unity/Shader/Shader.md",
+    "GameDeveloper/GameEngine/Unity/Shader/ShaderLab Tag的作用与实现原理.md",
+    "GameDeveloper/GameEngine/Unity/Shader",
+    "CS/CompositionPrinciples",
+    "CS/DesignPatterns/FunctionProgram/函数式设计",
+    "GameDeveloper/GameDesign/游戏场景开发与设计",
+    "GameDeveloper/GameEngine/Unity/VR学习",
+    "GameDeveloper/VR/VR透视矩阵.png",
+    "GameDeveloper/VR/VR的镜头畸变.png",
+    "CS/AI/AIGC/Pasted image 20250306113144.png",
+    "分形作用直观图.png",
+    "Tattle/职业规划/莉莉丝TA技术美术实习要求.png",
+    "Tattle/职业规划/Houdini程序化生成实习要求.png",
+    "Pasted image 20250304210809.png",
+    "Tattle/职业规划/计算机图形学路线图.jpg",
+    "Tattle/职业规划/计算机科学路线图.png",
     "未命名.canvas",
-    "CS/CodeLanguege/C/文件夹读取.md",
-    "CS/CodeLanguege/C/字符串处理.md",
-    "Tattle/职业规划/职业目标.md",
-    "Tattle/职业规划/以经营企业的角度经营自己的职业生涯.md",
-    "GameDeveloper/GameEngine/OwnEngine.md",
-    "README.md",
-    "CS/OperationSystem/南京大学2023操作系统/绪论/02应用视角的操作系统.md",
-    "CS/OperationSystem/南京大学2023操作系统/并发",
-    "CS/OperationSystem/南京大学2023操作系统/绪论",
-    "CS/OperationSystem/Linux/Linux配置clash.md",
-    "GameDeveloper",
-    "CS/CodeLanguege",
-    "CS",
-    "CS/Tool/Git",
-    "CS/OperationSystem/Linux/scp传输文件.md",
-    "CS/OperationSystem/Linux/Tmux.md",
-    "CS/Tool/Vscode/如何设置vscode的UI大小.md",
-    "CS/Tool/Vscode",
-    "CS/OperationSystem/Linux/远程桌面.md",
-    "CS/OperationSystem/Linux/使用v2ray配置代理.md",
-    "CS/OperationSystem/Linux/配置网络代理.md",
-    "CS/OperationSystem/南京大学2023操作系统/homework/M1打印进程树 (pstree).md",
-    "CS/DotNet/HowToMakeHttpRequest.md",
-    "未命名.md",
-    "CS/CodeLanguege/C",
-    "CS/DesignPatterns/单例和静态的区别及其缺点.md",
-    "CS/DotNet/Linq/Linq入门示范.md",
-    "CS/OperationSystem/南京大学2023操作系统/绪论/03硬件视角的操作系统.md",
-    "CS/OperationSystem/南京大学2023操作系统/绪论/04数学视角的操作系统.md",
-    "Markdown格式教程.md",
-    "2024-12-28.md",
     "未命名 1.canvas",
     "未命名 2.canvas"
   ]

@@ -1,5 +1,19 @@
 # 忽略我的灵感文件
-Temp/
+Tattle/职业规划
+Tattle/媒体分享
+Tattle/理财
+Tattle/职业规划
+
+Private/*
+
+ProjectIdeas/*
+
+Temp/*
+
 .obsidian/
 .vscode/
 .gitignore/
+.obsidian/
+
+# 代码空间，由于某些代码空间是一个大文件夹，所以不上传
+CS/ComputerGraphy/GraphicsOpenGL/CodeSpace
