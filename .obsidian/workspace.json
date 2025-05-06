@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "081387c66aa4d6cf",
+        "id": "daa02acec705fa85",
         "type": "tabs",
         "children": [
           {
-            "id": "26e7fece0719f4fa",
+            "id": "9e3ddaa754ba1907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CS/ComputerGraphy/MyRenderer/开发日志.md",
-                "mode": "source",
-                "source": false
+                "aFile": "CS/ComputerGraphy/计算机图形学-福建师范大学/08 二维观察.md",
+                "bFile": "CS/ComputerGraphy/计算机图形学-福建师范大学/08 二维观察.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "开发日志"
-            }
-          },
-          {
-            "id": "202b3f2377a6da96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/temp1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "temp1"
+              "icon": "diff",
+              "title": "Diff: 08 二维观察"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 220.5
   },
   "right": {
     "id": "acd436febc164b8c",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/ComputerGraphy/GraphicsOpenGL/04.管理3D图形数据.md",
+                "file": "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "04.管理3D图形数据 的反向链接列表"
+              "title": "vector动态数组容器 的反向链接列表"
             }
           },
           {
@@ -128,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/ComputerGraphy/GraphicsOpenGL/04.管理3D图形数据.md",
+                "file": "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "04.管理3D图形数据 的出链列表"
+              "title": "vector动态数组容器 的出链列表"
             }
           },
           {
@@ -157,22 +143,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/ComputerGraphy/GraphicsOpenGL/07光照.md",
+                "file": "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07光照 的大纲"
+              "title": "vector动态数组容器 的大纲"
+            }
+          },
+          {
+            "id": "a75fea8be172c2e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,58 +176,61 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "202b3f2377a6da96",
+  "active": "9e3ddaa754ba1907",
   "lastOpenFiles": [
-    "Tattle/学习计划.md",
-    "CS/ComputerGraphy/MyRenderer/详细文档.md",
-    "CS/ComputerGraphy/MyRenderer/开发日志.md",
-    "CS/ComputerGraphy/MyRenderer/AI核心类的细节实现.md",
-    "CS/ComputerGraphy/MyRenderer/AI架构设计.md",
-    "CS/ComputerGraphy/MyRenderer/OpenGL阶段性实验项目.md",
-    "ProjectIdeas/GameIdeas/小游戏：六边形文明守卫.md",
-    "ProjectIdeas/远征/最小demo.md",
-    "ProjectIdeas/远征/瓦片地图组件.md",
-    "ProjectIdeas/远征/开发日志.md",
-    "ProjectIdeas/远征/60s+远征.md",
-    "ProjectIdeas/工具：个人代码仓库.md",
-    "ProjectIdeas/Godot AI Strengthen Plugin.md",
-    "ProjectIdeas/Md格式简历生成器.md",
-    "ProjectIdeas/light-try.md",
-    "ProjectIdeas/AI Game Engine.md",
-    "ProjectIdeas/游戏AI-Agent实践.md",
-    "ProjectIdeas/魔法空岛场景开发.md",
-    "ProjectIdeas/技术美术作品集.md",
-    "ProjectIdeas/非对称双人对战游戏.md",
     "ProjectIdeas/个人网站.md",
-    "CS/ComputerGraphy/计算机图形学-福建师范大学/08二维观察.md",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/09libc原理与实现.md",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/08终端进程组和UNIXShell.md",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/07访问操作系统中的对象.md",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/06mmap和进程地址空间.md",
-    "CS/Alogrithm/大厂面试题真题/2017网易互娱雷火盘古实习",
-    "CS/Alogrithm/大厂面试题真题",
-    "CS/Alogrithm/CodeSpace/test_out",
-    "CS/Alogrithm/CodeSpace/a.exe",
-    "CS/Alogrithm/CodeSpace/windowsClick.exe",
-    "CS/Alogrithm/CodeSpace/windowsClick.cpp",
-    "Tattle/职业规划/计算机科学路线图.png",
-    "Tattle/职业规划/计算机图形学路线图.jpg",
-    "Tattle/职业规划/莉莉丝TA技术美术实习要求.png",
-    "Tattle/职业规划/Houdini程序化生成实习要求.png",
-    "CS/AI/AI-Agents",
-    "Picture/第二套uv.png",
-    "Picture/光照探针设置.png",
-    "Picture/对于动态Game Object.png",
-    "Picture/对于静态Game Object.png",
-    "Picture/检查模型光照uv.png",
-    "Picture/制作光照uv.png",
-    "CS/Alogrithm/贪心算法",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化",
-    "CS/OperationSystem/南京大学2025操作系统",
+    "CS/OperationSystem/Linux/如何配置ftp.md",
+    "Private/理财/小记.md",
+    "Private/理财/投资渠道.md",
+    "Private/MyIDEConfig.md",
+    "Tattle/Linux配置幻兽帕鲁服务器.md",
+    "Tattle/Godot 自动化实现.md",
+    "Tattle/Bob大叔访谈感悟.md",
+    "Private/桌游.md",
+    "Tattle/MyTool/动态ip解决方案.md",
+    "Tattle/AI生成图形工具的探索.md",
+    "Tattle/Github开源工具/感兴趣的开源仓库.md",
+    "Tattle/Book/社会生活.md",
+    "Private/学习计划.md",
+    "Private/DailyNote/2025-05-03.md",
+    "Private/DailyNote/2025-05-02.md",
+    "Private/苏丹的游戏体验.md",
+    "ProjectIdeas/游戏AI-Agent实践.md",
+    "ProjectIdeas/AI Game Engine.md",
+    "ProjectIdeas/light-try.md",
+    "CS/CodeLanguege/CPP/STL容器/stack栈.md",
+    "CS/CodeLanguege/CPP/STL容器/set集合.md",
+    "CS/CodeLanguege/CPP/STL容器/map键值对.md",
+    "CS/CodeLanguege/CPP/STL容器/queue队列.md",
+    "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
+    "CS/CodeLanguege/CPP/STL容器/unordered_set.md",
+    "CS/Alogrithm/图论",
+    "CS/Alogrithm/算法学习.canvas",
     "未命名.canvas",
+    "Private/DailyNote",
+    "ProjectIdeas/AI学习路线地图分析/学习路线分析.png",
+    "ProjectIdeas/AI学习路线地图分析/知识的上级下级相关并列.png",
+    "ProjectIdeas/AI学习路线地图分析/人脑工作图.png",
+    "ProjectIdeas/AI学习路线地图分析/如何执行困难任务.png",
+    "ProjectIdeas/AI学习路线地图分析/自下而上知识地图学习.png",
+    "ProjectIdeas/AI学习路线地图分析/问题导向.png",
+    "ProjectIdeas/AI学习路线地图分析",
+    "Tattle/AI工作流尝试",
+    "CS/AI/AI工作流",
+    "GameDeveloper/3DModeling/Houdini",
+    "Private/职业规划/莉莉丝TA技术美术实习要求.png",
+    "Private/职业规划/计算机图形学路线图.jpg",
+    "Private/职业规划/计算机科学路线图.png",
+    "GameDeveloper/GameEngine/Unity/个人编写记录/溶解效果/溶解效果.zip",
+    "GameDeveloper/GameEngine/Unity/个人编写记录/溶解效果/DissovleShaderDemo.unitypackage",
+    "ProjectIdeas/六边形建筑肉鸽/Picture/hexagon_cube_coordinates.png",
+    "ProjectIdeas/六边形建筑肉鸽/Picture",
+    "ProjectIdeas/六边形建筑肉鸽",
     "未命名 1.canvas",
     "未命名 2.canvas"
   ]

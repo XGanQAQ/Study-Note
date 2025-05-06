@@ -1,2 +1,0 @@
-- ImageFX 打不开
-- Midjourney 需要订阅
