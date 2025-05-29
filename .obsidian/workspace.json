@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "daa02acec705fa85",
+        "id": "b077690f6080e834",
         "type": "tabs",
         "children": [
           {
-            "id": "9e3ddaa754ba1907",
+            "id": "ba64644d65a83b43",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "CS/ComputerGraphy/计算机图形学-福建师范大学/08 二维观察.md",
-                "bFile": "CS/ComputerGraphy/计算机图形学-福建师范大学/08 二维观察.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "CS/OperationSystem/南京大学2025操作系统/虚拟化/12构建应用生态.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 08 二维观察"
+              "icon": "lucide-file",
+              "title": "12构建应用生态"
             }
           }
         ]
@@ -66,7 +65,7 @@
             }
           },
           {
-            "id": "fa66e2505d102791",
+            "id": "1b5972215d7d1c2b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -167,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,56 +180,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e3ddaa754ba1907",
+  "active": "a71b26351dd28831",
   "lastOpenFiles": [
-    "ProjectIdeas/个人网站.md",
-    "CS/OperationSystem/Linux/如何配置ftp.md",
-    "Private/理财/小记.md",
-    "Private/理财/投资渠道.md",
-    "Private/MyIDEConfig.md",
-    "Tattle/Linux配置幻兽帕鲁服务器.md",
-    "Tattle/Godot 自动化实现.md",
-    "Tattle/Bob大叔访谈感悟.md",
-    "Private/桌游.md",
-    "Tattle/MyTool/动态ip解决方案.md",
-    "Tattle/AI生成图形工具的探索.md",
-    "Tattle/Github开源工具/感兴趣的开源仓库.md",
-    "Tattle/Book/社会生活.md",
-    "Private/学习计划.md",
-    "Private/DailyNote/2025-05-03.md",
-    "Private/DailyNote/2025-05-02.md",
-    "Private/苏丹的游戏体验.md",
-    "ProjectIdeas/游戏AI-Agent实践.md",
+    "CS/OperationSystem/南京大学2025操作系统/虚拟化/11动态链接与加载.md",
+    "CS/OperationSystem/南京大学2025操作系统/虚拟化/12构建应用生态.md",
+    "CS/OperationSystem/南京大学2025操作系统/虚拟化/07访问操作系统中的对象.md",
+    "CS/DotNet/EF Core/数据迁移.md",
+    "Private/简历/简历模板信息.md",
+    "CS/DotNet/Web/Blazor/Blazor.md",
+    "Private/简历/项目经历.md",
+    "CS/DotNet/Web/Blazor/Blzaor程序加载速度体验优化方案.md",
+    "Temp/temp1.md",
+    "CS/Tool/V2Ray.md",
+    "CS/Tool/MSYS2.md",
+    "ProjectIdeas/AI生成个人网站.md",
     "ProjectIdeas/AI Game Engine.md",
-    "ProjectIdeas/light-try.md",
-    "CS/CodeLanguege/CPP/STL容器/stack栈.md",
-    "CS/CodeLanguege/CPP/STL容器/set集合.md",
-    "CS/CodeLanguege/CPP/STL容器/map键值对.md",
-    "CS/CodeLanguege/CPP/STL容器/queue队列.md",
-    "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
-    "CS/CodeLanguege/CPP/STL容器/unordered_set.md",
-    "CS/Alogrithm/图论",
+    "CS/DotNet/Web/Blazor/Blazor最佳示例详细注释.md",
+    "CS/DotNet/Web/Blazor/Blazor最佳实践示例.md",
+    "CS/DotNet/Web/Blazor/Blazor组件的生命周期函数.md",
+    "CS/DotNet/Web/Blazor/Blazor中rendermode和InteractiveComponent框的区别.md",
+    "CS/DotNet/Web/Blazor/Blazor如何手动指定渲染模式.md",
+    "Private/简历/简历转换工具.md",
+    "Private/简历",
+    "ProjectIdeas/个人网站/个人网站.md",
+    "Tattle/MyTool/使用公网IP查询API解决动态IP变化问题.md",
+    "Tattle/MyTool/动态ip解决方案.md",
+    "CS/OperationSystem/Linux/Nginx/systemctl的使用.md",
+    "CS/CodeLanguege/Python/使用uv进行包管理.md",
+    "CS/Tool/Vscode/如何让Copilot在本地运行而不是在连接的远程服务器上.md",
+    "CS/Tool/Vscode/Pasted image 20250524230837.png",
+    "CS/Tool/Vscode/Pasted image 20250524230802.png",
+    "CS/OperationSystem/Linux/配置网络代理.md",
+    "CS/DotNet/Web/ASP.NETCore/aspnet-core.png",
+    "CS/DotNet/DeskTopMobile/MAUI",
+    "CS/DotNet/DeskTopMobile",
+    "CS/DotNet/Web/SignalR",
+    "CS/DotNet/Web",
+    "CS/DotNet/Web/MVC",
+    "ProjectIdeas/个人网站",
+    "Picture/RazorPage个人网站.png",
+    "CS/DotNet/Web/Blazor",
+    "Private/媒体分享/待制作",
+    "Private/媒体分享/从零开始用 AI 编写一个复杂项目的实践方法论",
+    "GameDeveloper/GameProgramGenerate/游戏的程序化生成.canvas",
     "CS/Alogrithm/算法学习.canvas",
     "未命名.canvas",
-    "Private/DailyNote",
     "ProjectIdeas/AI学习路线地图分析/学习路线分析.png",
     "ProjectIdeas/AI学习路线地图分析/知识的上级下级相关并列.png",
     "ProjectIdeas/AI学习路线地图分析/人脑工作图.png",
     "ProjectIdeas/AI学习路线地图分析/如何执行困难任务.png",
     "ProjectIdeas/AI学习路线地图分析/自下而上知识地图学习.png",
     "ProjectIdeas/AI学习路线地图分析/问题导向.png",
-    "ProjectIdeas/AI学习路线地图分析",
-    "Tattle/AI工作流尝试",
-    "CS/AI/AI工作流",
-    "GameDeveloper/3DModeling/Houdini",
-    "Private/职业规划/莉莉丝TA技术美术实习要求.png",
-    "Private/职业规划/计算机图形学路线图.jpg",
-    "Private/职业规划/计算机科学路线图.png",
-    "GameDeveloper/GameEngine/Unity/个人编写记录/溶解效果/溶解效果.zip",
-    "GameDeveloper/GameEngine/Unity/个人编写记录/溶解效果/DissovleShaderDemo.unitypackage",
-    "ProjectIdeas/六边形建筑肉鸽/Picture/hexagon_cube_coordinates.png",
-    "ProjectIdeas/六边形建筑肉鸽/Picture",
-    "ProjectIdeas/六边形建筑肉鸽",
     "未命名 1.canvas",
     "未命名 2.canvas"
   ]

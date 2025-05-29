@@ -1,0 +1,2 @@
+
+"smart_sources:GameDeveloper/TechnologyArtist/PCG/PCGAlgo.md": {"path":"GameDeveloper/TechnologyArtist/PCG/PCGAlgo.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"448ee10435632f4bb49e96a0ca2fc507daa909ad024597fab2bbc6bf8b4736b2","at":1747299379960},"class_name":"SmartSource","last_import":{"mtime":1733065798318,"size":101,"at":1747299379960,"hash":"448ee10435632f4bb49e96a0ca2fc507daa909ad024597fab2bbc6bf8b4736b2"},"blocks":{"##Perlin noise and Simplex noise":[3,4],"##Cellular automata algorithms":[5,6],"##Random Seed Generation":[7,7]},"outlinks":[]},
