@@ -11,10 +11,14 @@
             "id": "ebb729ea3a9d7e5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a71b26351dd28831",
+  "active": "ebb729ea3a9d7e5f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "CS/CodeLanguege/CSharp/CSharp.md",
     "ProjectIdeas/地心探索.md",
     "CS/CodeLanguege/CSharp/CSharp不安全代码.md",
@@ -204,8 +210,6 @@
     "GameDeveloper/GameEngine/Unreal/如何理解Pawn正确理解在UE中的意义.md",
     "Private/学习计划.md",
     "Tattle/MyTool/Pot-Desktop.md",
-    "uenreal.md",
-    "CS/OperationSystem/南京大学2025操作系统/持久化/20设备和驱动程序.md",
     "GameDeveloper/GameEngine/Unreal",
     "Private/媒体分享/我的网站",
     "CS/Tool/Vim/vi-vim-cheat-sheet-sch1.gif",
