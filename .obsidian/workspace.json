@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ec7a5c83ed0749",
+        "id": "a1667bdfebe3dec3",
         "type": "tabs",
         "children": [
           {
-            "id": "e84e2e3e79b72df3",
+            "id": "ebb729ea3a9d7e5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/简历/陈正刚简历_1.1.0_结合修正版.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "陈正刚简历_1.1.0_结合修正版"
+              "title": "新标签页"
             }
           }
         ]
@@ -166,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,48 +176,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e84e2e3e79b72df3",
+  "active": "a71b26351dd28831",
   "lastOpenFiles": [
-    "Temp/temp1.md",
-    "Private/简历/陈正刚简历_1.1.0_结合修正版.md",
-    "Private/简历/陈正刚简历_项目经历汇总.md",
+    "CS/CodeLanguege/CSharp/CSharp.md",
+    "ProjectIdeas/地心探索.md",
+    "CS/CodeLanguege/CSharp/CSharp不安全代码.md",
+    "CS/CodeLanguege/CSharp/CSharp的单例写法.md",
+    "CS/CodeLanguege/CSharp/CSharpLambda表达式.md",
+    "CS/CodeLanguege/CSharp/CSharpExtension Methods 扩展方法.md",
+    "CS/CodeLanguege/CSharp/CSharpDelegate 委托.md",
+    "CS/CodeLanguege/CSharp/CSharp特性Attribute.md",
+    "CS/CodeLanguege/CSharp/CSharp多线程入门.md",
+    "CS/CodeLanguege/CSharp/CSharp垃圾回收GC.md",
+    "Private/简历/Resume陈正刚简历_1.1.0_结合修正版.md",
     "Private/简历/陈正刚简历_0.1.0_AI润色.md",
     "Private/简历/陈正刚简历_0.1.0_模板信息.md",
     "Private/简历/简历转换工具.md",
-    "CS/CodeLanguege/Python/Python 的真值测试规则.md",
-    "CS/CodeLanguege/Python/列表推导式的原理语法.md",
-    "Down.md",
-    "ProjectIdeas/选择窗口识图自动翻译.md",
-    "CS/DevOps/CICD/GitHub Actions 与 CICD 平台总结.md",
+    "Tattle/Book/优势谈判/开局谈判策略.md",
+    "ProjectIdeas/赛博族谱生成器.md",
+    "Tattle/Book/优势谈判",
+    "Tattle/未命名",
+    "GameDeveloper/GameEngine/Unreal/UnityToUE_内容迁移.md",
+    "GameDeveloper/GameEngine/Unreal/UnityToUE_理解UE游戏框架.md",
+    "GameDeveloper/GameEngine/Unreal/Unreal.md",
+    "Tattle/MyTool/MyTool.md",
+    "Tattle/MyTool/Edge快捷键.md",
+    "GameDeveloper/GameEngine/Unreal/如何理解Pawn正确理解在UE中的意义.md",
+    "Private/学习计划.md",
+    "Tattle/MyTool/Pot-Desktop.md",
+    "uenreal.md",
+    "CS/OperationSystem/南京大学2025操作系统/持久化/20设备和驱动程序.md",
+    "GameDeveloper/GameEngine/Unreal",
+    "Private/媒体分享/我的网站",
     "CS/Tool/Vim/vi-vim-cheat-sheet-sch1.gif",
     "CS/DevOps/CICD",
-    "CS/Tool/Vim/vim编辑器常用的功能.md",
-    "CS/OperationSystem/Linux/Linux的文件目录系统.md",
     "CS/Tool/Vim",
-    "CS/DevOps/Monit/Monit.md",
-    "CS/Tool/Unicode字符小图标.md",
     "CS/DevOps/Monit",
-    "CS/Tool/V2Ray.md",
-    "CS/Tool/MSYS2.md",
-    "CS/DevOps/什么是CICD.md",
-    "CS/DevOps/后端部署笔记.md",
-    "CS/Tool/ListFiles/res.md",
-    "CS/Tool/ListFiles/遍历文件目录输出文本.md",
-    "ProblemSet/利用云服务器公网IP的方法.md",
     "CS/DevOps",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/12构建应用生态.md",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/11动态链接与加载.md",
-    "CS/OperationSystem/南京大学2025操作系统/虚拟化/07访问操作系统中的对象.md",
-    "CS/DotNet/EF Core/数据迁移.md",
     "Private/简历",
     "CS/Tool/Vscode/Pasted image 20250524230837.png",
     "CS/Tool/Vscode/Pasted image 20250524230802.png",
     "CS/DotNet/Web/ASP.NETCore/aspnet-core.png",
     "CS/DotNet/DeskTopMobile/MAUI",
-    "CS/DotNet/DeskTopMobile",
-    "CS/DotNet/Web/SignalR",
-    "CS/DotNet/Web",
-    "CS/DotNet/Web/MVC",
     "Picture/RazorPage个人网站.png",
     "GameDeveloper/GameProgramGenerate/游戏的程序化生成.canvas",
     "CS/Alogrithm/算法学习.canvas",

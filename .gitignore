@@ -6,6 +6,7 @@ ProjectIdeas/*
 Temp/*
 
 .obsidian/
+.smart-env/
 .vscode/
 .gitignore/
 .obsidian/
