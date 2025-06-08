@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "个人Windows操作系统硬盘管理规范",
+      "path": "Private/Tools/个人Windows操作系统硬盘管理规范.md"
+    },
+    {
+      "basename": "Windows默认文件系统结构",
+      "path": "CS/OperationSystem/Windows/Windows默认文件系统结构.md"
+    },
+    {
+      "basename": "Windows注册表",
+      "path": "CS/OperationSystem/Windows/Windows注册表.md"
+    },
+    {
+      "basename": "CSharp 拓展方法：让你的代码更“丝滑”的小技巧！",
+      "path": "Private/我的自媒体/CSharp 拓展方法：让你的代码更“丝滑”的小技巧！.md"
+    },
+    {
+      "basename": "2025-06-08",
+      "path": "Private/DailyNote/2025-06-08.md"
+    },
+    {
+      "basename": "CSharp拓展方法",
+      "path": "CS/CodeLanguege/CSharp/CSharp拓展方法.md"
+    },
+    {
+      "basename": "CSharp的鸭子类型",
+      "path": "CS/CodeLanguege/CSharp/CSharp的鸭子类型.md"
+    },
+    {
+      "basename": "AI提示词",
+      "path": "Private/我的自媒体/AI提示词.md"
+    },
+    {
+      "basename": "学习",
+      "path": "Private/Tasks/OKR/学习.md"
+    },
+    {
+      "basename": "TaskShow",
+      "path": "Private/Tasks/TaskShow.canvas"
+    },
+    {
+      "basename": "CSharp的集合表达式",
+      "path": "CS/CodeLanguege/CSharp/CSharp的集合表达式.md"
+    },
+    {
+      "basename": "CSharp",
+      "path": "CS/CodeLanguege/CSharp/CSharp.md"
+    },
+    {
+      "basename": "CSharp的TaskAwaiter是什么？",
+      "path": "CS/CodeLanguege/CSharp/CSharp的TaskAwaiter是什么？.md"
+    },
+    {
+      "basename": "OperationSystem",
+      "path": "CS/OperationSystem/OperationSystem.md"
+    },
+    {
+      "basename": "开放端口",
+      "path": "CS/OperationSystem/Linux/NetSetting/开放端口.md"
+    },
+    {
+      "basename": "ComputerScience",
+      "path": "CS/ComputerScience.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "DesignPatterns",
+      "path": "CS/DesignPatterns/DesignPatterns.md"
+    },
+    {
+      "basename": "ProgrammingParadigms",
+      "path": "CS/ProgrammingParadigms/ProgrammingParadigms.md"
+    },
+    {
+      "basename": "FunctionProgram",
+      "path": "CS/ProgrammingParadigms/FunctionProgram/FunctionProgram.md"
+    },
+    {
+      "basename": "lambda算法与图灵机",
+      "path": "CS/ProgrammingParadigms/FunctionProgram/lambda算法与图灵机.md"
+    },
+    {
+      "basename": "ComputerGraphy",
+      "path": "CS/ComputerGraphy/ComputerGraphy.md"
+    },
+    {
+      "basename": "图形学学习教程资源",
+      "path": "CS/ComputerGraphy/图形学学习教程资源.md"
+    },
+    {
+      "basename": "PBR（基于物理的渲染）",
+      "path": "CS/ComputerGraphy/渲染/PBR（基于物理的渲染）.md"
+    },
+    {
+      "basename": "OpenGL的vao和vbo的区别",
+      "path": "CS/ComputerGraphy/图形编程实践/OpenGL/OpenGL的vao和vbo的区别.md"
+    },
+    {
+      "basename": "顶点属性指针与顶点属性数组",
+      "path": "CS/ComputerGraphy/图形编程实践/OpenGL/顶点属性指针与顶点属性数组.md"
+    },
+    {
+      "basename": "【百人计划】Unity烘培基础",
+      "path": "GameDeveloper/GameEngine/Unity/【百人计划】Unity烘培基础.md"
+    },
+    {
+      "basename": "03 软件",
+      "path": "CS/ComputerGraphy/计算机图形学-福建师范大学/03 软件.md"
+    },
+    {
+      "basename": "02 硬件",
+      "path": "CS/ComputerGraphy/计算机图形学-福建师范大学/02 硬件.md"
+    },
+    {
+      "basename": "04 图元的属性",
+      "path": "CS/ComputerGraphy/计算机图形学-福建师范大学/04 图元的属性.md"
+    },
+    {
+      "basename": "05 OpenGL",
+      "path": "CS/ComputerGraphy/计算机图形学-福建师范大学/05 OpenGL.md"
+    },
+    {
+      "basename": "07 二维几何变换",
+      "path": "CS/ComputerGraphy/计算机图形学-福建师范大学/07 二维几何变换.md"
+    },
+    {
+      "basename": "08 二维观察",
+      "path": "CS/ComputerGraphy/计算机图形学-福建师范大学/08 二维观察.md"
+    },
+    {
+      "basename": "08.阴影",
+      "path": "CS/ComputerGraphy/图形编程实践/GraphicsOpenGL/08.阴影.md"
+    },
+    {
+      "basename": "设计模式的7大原则",
+      "path": "CS/DesignPatterns/设计模式的7大原则.md"
+    },
+    {
+      "basename": "PowerShell",
+      "path": "CS/OperationSystem/Windows/PowerShell.md"
+    },
+    {
+      "basename": "查看占用端口",
+      "path": "CS/OperationSystem/Linux/NetSetting/查看占用端口.md"
+    },
+    {
+      "basename": "远程桌面",
+      "path": "CS/OperationSystem/Linux/远程桌面.md"
+    },
+    {
+      "basename": "Linux配置clash",
+      "path": "CS/OperationSystem/Linux/NetSetting/Linux配置clash.md"
+    },
+    {
+      "basename": "配置网络代理",
+      "path": "CS/OperationSystem/Linux/NetSetting/配置网络代理.md"
+    },
+    {
+      "basename": "Makefile基本语法",
+      "path": "CS/CodeLanguege/C/Make/Makefile基本语法.md"
+    },
+    {
+      "basename": "Makefile的目标是什么",
+      "path": "CS/CodeLanguege/C/Make/Makefile的目标是什么.md"
+    },
+    {
+      "basename": "什么是Makefile",
+      "path": "CS/CodeLanguege/C/Make/什么是Makefile.md"
+    },
+    {
+      "basename": "CFLAGS的使用",
+      "path": "CS/CodeLanguege/C/GCC/CFLAGS的使用.md"
+    },
+    {
+      "basename": "Linux的初级权限管理设置",
+      "path": "CS/OperationSystem/Linux/Linux的初级权限管理设置.md"
+    },
+    {
+      "basename": "使用v2ray配置代理",
+      "path": "CS/OperationSystem/Linux/NetSetting/使用v2ray配置代理.md"
+    },
+    {
+      "basename": "如何配置ftp",
+      "path": "CS/OperationSystem/Linux/NetSetting/如何配置ftp.md"
+    },
+    {
+      "basename": "ubuntu如何解压.tar.gz文件",
+      "path": "CS/OperationSystem/Linux/ubuntu如何解压.tar.gz文件.md"
+    },
+    {
+      "basename": "Tmux",
+      "path": "CS/OperationSystem/Linux/Tmux.md"
+    },
+    {
+      "basename": "scp传输文件",
+      "path": "CS/OperationSystem/Linux/NetSetting/scp传输文件.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

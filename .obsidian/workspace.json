@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a1667bdfebe3dec3",
+        "id": "268f44e9cf57d6eb",
         "type": "tabs",
         "children": [
           {
-            "id": "ebb729ea3a9d7e5f",
+            "id": "4cfcac66779736c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Private/我的自媒体/AI提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "AI提示词"
+            }
+          },
+          {
+            "id": "b3657cde12d27320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Tools/个人Windows操作系统硬盘管理规范.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "个人Windows操作系统硬盘管理规范"
+            }
+          },
+          {
+            "id": "5667e210f50402ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/我的自媒体/CSharp 拓展方法：让你的代码更“丝滑”的小技巧！.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSharp 拓展方法：让你的代码更“丝滑”的小技巧！"
+            }
+          },
+          {
+            "id": "3d49e4a4f567564b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CodeLanguege/CSharp/CSharp拓展方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSharp拓展方法"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -33,6 +76,7 @@
       {
         "id": "7391f01fbf9a977f",
         "type": "tabs",
+        "dimension": 74.1267787839586,
         "children": [
           {
             "id": "a71b26351dd28831",
@@ -63,6 +107,23 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
+          }
+        ]
+      },
+      {
+        "id": "5fc3480f8e58dcd8",
+        "type": "tabs",
+        "dimension": 25.873221216041397,
+        "children": [
+          {
+            "id": "acf579710421cae3",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           },
           {
             "id": "1b5972215d7d1c2b",
@@ -78,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 217.5
   },
   "right": {
     "id": "acd436febc164b8c",
@@ -87,14 +148,30 @@
       {
         "id": "c5dd4e51c92f6e0a",
         "type": "tabs",
+        "dimension": 44.41176470588235,
         "children": [
+          {
+            "id": "5b225d4c7ef635be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Private/Tools/个人Windows操作系统硬盘管理规范.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "个人Windows操作系统硬盘管理规范 的大纲"
+            }
+          },
           {
             "id": "820fd3e980cdf09a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "vector动态数组容器 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -113,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "vector动态数组容器 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -135,20 +212,32 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "edd44ff64f9ed1c2",
+        "type": "tabs",
+        "dimension": 55.58823529411765,
+        "children": [
           {
-            "id": "5b225d4c7ef635be",
+            "id": "7f3dbad050cccce1",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "CS/CodeLanguege/CPP/STL容器/vector动态数组容器.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "vector动态数组容器 的大纲"
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "e78763d85e20f35d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -162,75 +251,81 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false
+      "graph:查看关系图谱": false
     }
   },
-  "active": "ebb729ea3a9d7e5f",
+  "active": "a75fea8be172c2e1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
+    "CS/OperationSystem/Windows/Windows默认文件系统结构.md",
+    "CS/OperationSystem/Windows/Windows注册表.md",
+    "Private/我的自媒体/CSharp 拓展方法：让你的代码更“丝滑”的小技巧！.md",
+    "Private/Tools/个人Windows操作系统硬盘管理规范.md",
+    "Private/DailyNote/2025-06-08.md",
+    "CS/CodeLanguege/CSharp/CSharp拓展方法.md",
+    "CS/CodeLanguege/CSharp/CSharp的鸭子类型.md",
+    "Private/我的自媒体/AI提示词.md",
+    "Private/Tasks/TaskShow.canvas",
+    "CS/CodeLanguege/CSharp/CSharp的集合表达式.md",
     "CS/CodeLanguege/CSharp/CSharp.md",
-    "ProjectIdeas/地心探索.md",
-    "CS/CodeLanguege/CSharp/CSharp不安全代码.md",
-    "CS/CodeLanguege/CSharp/CSharp的单例写法.md",
-    "CS/CodeLanguege/CSharp/CSharpLambda表达式.md",
-    "CS/CodeLanguege/CSharp/CSharpExtension Methods 扩展方法.md",
-    "CS/CodeLanguege/CSharp/CSharpDelegate 委托.md",
-    "CS/CodeLanguege/CSharp/CSharp特性Attribute.md",
-    "CS/CodeLanguege/CSharp/CSharp多线程入门.md",
-    "CS/CodeLanguege/CSharp/CSharp垃圾回收GC.md",
-    "Private/简历/Resume陈正刚简历_1.1.0_结合修正版.md",
-    "Private/简历/陈正刚简历_0.1.0_AI润色.md",
-    "Private/简历/陈正刚简历_0.1.0_模板信息.md",
-    "Private/简历/简历转换工具.md",
-    "Tattle/Book/优势谈判/开局谈判策略.md",
-    "ProjectIdeas/赛博族谱生成器.md",
-    "Tattle/Book/优势谈判",
-    "Tattle/未命名",
-    "GameDeveloper/GameEngine/Unreal/UnityToUE_内容迁移.md",
-    "GameDeveloper/GameEngine/Unreal/UnityToUE_理解UE游戏框架.md",
-    "GameDeveloper/GameEngine/Unreal/Unreal.md",
-    "Tattle/MyTool/MyTool.md",
-    "Tattle/MyTool/Edge快捷键.md",
-    "GameDeveloper/GameEngine/Unreal/如何理解Pawn正确理解在UE中的意义.md",
-    "Private/学习计划.md",
-    "Tattle/MyTool/Pot-Desktop.md",
-    "GameDeveloper/GameEngine/Unreal",
-    "Private/媒体分享/我的网站",
+    "CS/CodeLanguege/CSharp/CSharp的TaskAwaiter是什么？.md",
+    "CS/OperationSystem/OperationSystem.md",
+    "CS/OperationSystem/Linux/NetSetting/开放端口.md",
+    "CS/ComputerScience.md",
+    "README.md",
+    "CS/DesignPatterns/DesignPatterns.md",
+    "CS/ProgrammingParadigms/ProgrammingParadigms.md",
+    "CS/ProgrammingParadigms/FunctionProgram/FunctionProgram.md",
+    "CS/ProgrammingParadigms/FunctionProgram/lambda算法与图灵机.md",
+    "CS/ComputerGraphy/ComputerGraphy.md",
+    "CS/ComputerGraphy/图形学学习教程资源.md",
+    "CS/ComputerGraphy/渲染/PBR（基于物理的渲染）.md",
+    "CS/ComputerGraphy/图形编程实践/OpenGL/OpenGL的vao和vbo的区别.md",
+    "CS/ComputerGraphy/图形编程实践/OpenGL/顶点属性指针与顶点属性数组.md",
+    "GameDeveloper/GameEngine/Unity/【百人计划】Unity烘培基础.md",
+    "CS/ComputerGraphy/图形编程实践",
+    "CS/ComputerGraphy/计算机图形学-福建师范大学/03 软件.md",
+    "CS/ComputerGraphy/渲染",
+    "CS/ProgrammingParadigms/Object-OrientedProgramming",
+    "CS/ProgrammingParadigms",
+    "CS/OperationSystem/Linux/NetSetting",
+    "CS/OperationSystem/Linux/Kernel",
+    "CS/Alogrithm/算法学习.canvas",
+    "CS/DataStruct/Set",
+    "GameDeveloper/GameEngine/Unity/UnityEditor",
+    "GameDeveloper/GameEngine/Unreal/UnityToUE",
+    "CS/ComputerGraphy/渲染/渲染路径",
+    "Private/ProjectIdeas/AI Game/游戏界面.canvas",
+    "Private/职业规划/莉莉丝TA技术美术实习要求.png",
+    "Private/职业规划/计算机图形学路线图.jpg",
+    "Private/职业规划/计算机科学路线图.png",
+    "Private/未命名.canvas",
+    "Private/Templat/未命名.canvas",
     "CS/Tool/Vim/vi-vim-cheat-sheet-sch1.gif",
-    "CS/DevOps/CICD",
-    "CS/Tool/Vim",
-    "CS/DevOps/Monit",
-    "CS/DevOps",
-    "Private/简历",
     "CS/Tool/Vscode/Pasted image 20250524230837.png",
     "CS/Tool/Vscode/Pasted image 20250524230802.png",
     "CS/DotNet/Web/ASP.NETCore/aspnet-core.png",
-    "CS/DotNet/DeskTopMobile/MAUI",
     "Picture/RazorPage个人网站.png",
     "GameDeveloper/GameProgramGenerate/游戏的程序化生成.canvas",
-    "CS/Alogrithm/算法学习.canvas",
     "未命名.canvas",
-    "ProjectIdeas/AI学习路线地图分析/学习路线分析.png",
-    "ProjectIdeas/AI学习路线地图分析/知识的上级下级相关并列.png",
-    "ProjectIdeas/AI学习路线地图分析/人脑工作图.png",
-    "ProjectIdeas/AI学习路线地图分析/如何执行困难任务.png",
-    "ProjectIdeas/AI学习路线地图分析/自下而上知识地图学习.png",
+    "Private/ProjectIdeas/AI学习路线地图分析/学习路线分析.png",
+    "Private/ProjectIdeas/AI学习路线地图分析/知识的上级下级相关并列.png",
     "未命名 1.canvas",
     "未命名 2.canvas"
   ]

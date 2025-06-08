@@ -1,0 +1,241 @@
+{
+  "workspaces": {
+    "GanX默认工作区": {
+      "main": {
+        "id": "5e037e6be2f69bf8",
+        "type": "split",
+        "children": [
+          {
+            "id": "268f44e9cf57d6eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eff3cf2184c3df43",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Private/Tasks/TaskShow.canvas",
+                    "viewState": {
+                      "x": -227,
+                      "y": -540,
+                      "zoom": -0.8595350669526046
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "TaskShow"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "bc6d1bef9c5341d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "7391f01fbf9a977f",
+            "type": "tabs",
+            "dimension": 68.4346701164295,
+            "children": [
+              {
+                "id": "a71b26351dd28831",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "a5b7509c36aa4df3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5fc3480f8e58dcd8",
+            "type": "tabs",
+            "dimension": 31.565329883570502,
+            "children": [
+              {
+                "id": "acf579710421cae3",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "1b5972215d7d1c2b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 259.5
+      },
+      "right": {
+        "id": "acd436febc164b8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5dd4e51c92f6e0a",
+            "type": "tabs",
+            "dimension": 44.41176470588235,
+            "children": [
+              {
+                "id": "5b225d4c7ef635be",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Private/Tasks/TaskShow.canvas",
+                    "followCursor": false,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "TaskShow 的大纲"
+                }
+              },
+              {
+                "id": "820fd3e980cdf09a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "README.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "README 的反向链接列表"
+                }
+              },
+              {
+                "id": "1cc36db7b1bfb34b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "README.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "README 的出链列表"
+                }
+              },
+              {
+                "id": "bda58449ed29f016",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              }
+            ]
+          },
+          {
+            "id": "edd44ff64f9ed1c2",
+            "type": "tabs",
+            "dimension": 55.58823529411765,
+            "children": [
+              {
+                "id": "7f3dbad050cccce1",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {},
+                  "icon": "calendar-clock",
+                  "title": "Tasks Timeline"
+                }
+              },
+              {
+                "id": "e78763d85e20f35d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "a75fea8be172c2e1",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 296.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:打开/创建今天的日记": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-git:Open Git source control": false,
+          "templater-obsidian:Templater": false,
+          "homepage:Open homepage": false,
+          "workspaces:管理工作区布局": false,
+          "graph:查看关系图谱": false
+        }
+      },
+      "active": "eff3cf2184c3df43",
+      "mtime": "2025-06-07T01:06:20+08:00"
+    }
+  },
+  "active": "GanX默认工作区"
+}
