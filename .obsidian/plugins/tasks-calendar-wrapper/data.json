@@ -2,10 +2,12 @@
   "openViewOnStartup": false,
   "filterEmpty": true,
   "excludePaths": [
-    "CS/ComputerGraphy/MyRenderer",
-    "Private/Templat"
+    "Private/Templat",
+    "CS/ComputerGraphy/MyRenderer"
   ],
-  "includePaths": [],
+  "includePaths": [
+    "Private/DailyNote"
+  ],
   "useIncludeTags": false,
   "taskIncludeTags": [],
   "fileIncludeTags": [],
@@ -33,7 +35,9 @@
   ],
   "dateFormat": "dddd, MMM, D",
   "inbox": "Inbox.md",
-  "taskFiles": [],
+  "taskFiles": [
+    ""
+  ],
   "tagColorPalette": {
     "#TODO": "#339988",
     "#TEST": "#998877"
