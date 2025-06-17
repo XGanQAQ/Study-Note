@@ -1,80 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "GIT_提交规范",
-      "path": "CS/Tool/GIT/GIT_提交规范.md"
+      "basename": "21-存储设备原理",
+      "path": "CS/OperationSystem/南京大学2025操作系统/持久化/21-存储设备原理.md"
     },
     {
-      "basename": "2025-06-14",
-      "path": "Private/DailyNote/2025-06-14.md"
+      "basename": "Unreal",
+      "path": "GameDeveloper/GameEngine/Unreal/Unreal.md"
     },
     {
-      "basename": "Linux的文件目录系统",
-      "path": "CS/OperationSystem/Linux/Linux的文件目录系统.md"
+      "basename": "技术美术TA",
+      "path": "Private/职业规划/技术美术TA.md"
     },
     {
-      "basename": "MyIDEConfig",
-      "path": "Private/Tools/MyIDEConfig.md"
+      "basename": "GDC25-The-Four-One-Page-Design-Docs-You-Need (And How to Use Them)",
+      "path": "GameDeveloper/GDCReference/GDC25-The-Four-One-Page-Design-Docs-You-Need (And How to Use Them).md"
     },
     {
-      "basename": "2025-06-12",
-      "path": "Private/DailyNote/2025-06-12.md"
+      "basename": "Resume陈正刚简历_1.1.0_结合修正版",
+      "path": "Private/简历/Resume陈正刚简历_1.1.0_结合修正版.md"
     },
     {
-      "basename": "PlANKA_ElegantOpenSourceProjectTracking",
-      "path": "GameDeveloper/ProjectManage/PlANKA_ElegantOpenSourceProjectTracking.md"
+      "basename": "GDC17-快速原型的漫游指南",
+      "path": "GameDeveloper/GDCReference/GDC17-快速原型的漫游指南.md"
     },
     {
-      "basename": "Taiga_OpensourceAgileProjectManagementSoftware",
-      "path": "GameDeveloper/ProjectManage/Taiga_OpensourceAgileProjectManagementSoftware.md"
+      "basename": "GDC2025_新虚幻引擎开发者速成课程Crash Course for New Unreal Engine Developers",
+      "path": "GameDeveloper/GDCReference/GDC2025_新虚幻引擎开发者速成课程Crash Course for New Unreal Engine Developers.md"
     },
     {
-      "basename": "Worktile_项目协作工具",
-      "path": "GameDeveloper/ProjectManage/Worktile_项目协作工具.md"
+      "basename": "2025-06-17",
+      "path": "Private/DailyNote/2025-06-17.md"
     },
     {
-      "basename": "Trello_实现工作流看板",
-      "path": "GameDeveloper/ProjectManage/Trello_实现工作流看板.md"
+      "basename": "2025-06-16",
+      "path": "Private/DailyNote/2025-06-16.md"
     },
     {
-      "basename": "Jira_事务与项目跟踪软件",
-      "path": "GameDeveloper/ProjectManage/Jira_事务与项目跟踪软件.md"
+      "basename": "20-设备和驱动程序",
+      "path": "CS/OperationSystem/南京大学2025操作系统/持久化/20-设备和驱动程序.md"
     },
     {
-      "basename": "Perforce Helix Core",
-      "path": "GameDeveloper/ProjectManage/Perforce Helix Core.md"
+      "basename": "2025-06-15",
+      "path": "Private/DailyNote/2025-06-15.md"
     },
     {
-      "basename": "SVN和GIT综合管理游戏项目",
-      "path": "GameDeveloper/ProjectManage/SVN和GIT综合管理游戏项目.md"
+      "basename": "Excel工具",
+      "path": "GameDeveloper/TechnicalDirector/Excel工具.md"
     },
     {
-      "basename": "GIT",
-      "path": "CS/Tool/GIT/GIT.md"
+      "basename": "技术策划的职责",
+      "path": "GameDeveloper/TechnicalDirector/技术策划的职责.md"
     },
     {
-      "basename": "TortoiseSVN _Apache™ Subversion (SVN)® 客户端",
-      "path": "CS/Tool/SVN/TortoiseSVN _Apache™ Subversion (SVN)® 客户端.md"
+      "basename": "HowToBuildScene",
+      "path": "GameDeveloper/TechnologyArtist/HowToBuildScene.md"
     },
     {
-      "basename": "GIT_rebase和merge的区别",
-      "path": "CS/Tool/GIT/GIT_rebase和merge的区别.md"
+      "basename": "WhatIsPCG",
+      "path": "GameDeveloper/TechnologyArtist/PCG/WhatIsPCG.md"
     },
     {
-      "basename": "GIT_fetch和pull的区别",
-      "path": "CS/Tool/GIT/GIT_fetch和pull的区别.md"
+      "basename": "PCGAlgo",
+      "path": "GameDeveloper/TechnologyArtist/PCG/PCGAlgo.md"
     },
     {
-      "basename": "自建SVN",
-      "path": "CS/Tool/SVN/自建SVN.md"
+      "basename": "02数学基础知识",
+      "path": "GameDeveloper/TechnologyArtist/GetStartedWithShader/02数学基础知识.md"
     },
     {
-      "basename": "SVN是什么？",
-      "path": "CS/Tool/SVN/SVN是什么？.md"
+      "basename": "01基础理论知识",
+      "path": "GameDeveloper/TechnologyArtist/GetStartedWithShader/01基础理论知识.md"
     },
     {
-      "basename": "Tool",
-      "path": "CS/Tool/Tool.md"
+      "basename": "00背景概述",
+      "path": "GameDeveloper/TechnologyArtist/GetStartedWithShader/00背景概述.md"
+    },
+    {
+      "basename": "Billboard广告牌",
+      "path": "GameDeveloper/TechnologyArtist/Billboard/Billboard广告牌.md"
     },
     {
       "basename": "GTD_把事情做完",
@@ -85,104 +89,84 @@
       "path": "GameDeveloper/ProjectManage/OKR_目标与关键成果法.md"
     },
     {
-      "basename": "今日待办",
-      "path": "Private/Tasks/GTD/今日待办.md"
+      "basename": "Unity",
+      "path": "GameDeveloper/GameEngine/Unity/Unity.md"
     },
     {
-      "basename": "未来五年的职业规划_2025_游戏开发图形学工程师之路_300字",
-      "path": "Private/职业规划/未来五年的职业规划_2025_游戏开发图形学工程师之路_300字.md"
-    },
-    {
-      "basename": "未来五年的职业规划_2025_游戏开发图形学工程师之路",
-      "path": "Private/职业规划/未来五年的职业规划_2025_游戏开发图形学工程师之路.md"
-    },
-    {
-      "basename": "图像程序与技术美术",
-      "path": "Private/职业规划/图像程序与技术美术.md"
-    },
-    {
-      "basename": "技术美术TA",
-      "path": "Private/职业规划/技术美术TA.md"
-    },
-    {
-      "basename": "计算机图形学习路线图",
-      "path": "Private/职业规划/计算机图形学习路线图.md"
-    },
-    {
-      "basename": "感兴趣的公司",
-      "path": "Private/职业规划/感兴趣的公司.md"
+      "basename": "技术策划TD",
+      "path": "Private/职业规划/技术策划TD.md"
     },
     {
       "basename": "独立项目落地全指南：从原型到团队协作的实战策略",
       "path": "Private/职业规划/独立项目落地全指南：从原型到团队协作的实战策略.md"
     },
     {
-      "basename": "AI与技术美术",
-      "path": "Private/职业规划/AI与技术美术.md"
+      "basename": "感兴趣的公司",
+      "path": "Private/职业规划/感兴趣的公司.md"
+    },
+    {
+      "basename": "未来五年的职业规划_2025_游戏开发图形学工程师之路",
+      "path": "Private/职业规划/未来五年的职业规划_2025_游戏开发图形学工程师之路.md"
     },
     {
       "basename": "职业规划",
       "path": "Private/职业规划/职业规划.md"
     },
     {
-      "basename": "以经营企业的角度经营自己的职业生涯",
-      "path": "Private/职业规划/以经营企业的角度经营自己的职业生涯.md"
-    },
-    {
-      "basename": "Resume陈正刚简历_1.1.0_结合修正版",
-      "path": "Private/简历/Resume陈正刚简历_1.1.0_结合修正版.md"
+      "basename": "图像程序与技术美术",
+      "path": "Private/职业规划/图像程序与技术美术.md"
     },
     {
       "basename": "Houdini程序化生成实习要求",
-      "path": "Private/职业规划/Houdini程序化生成实习要求.png"
+      "path": "Private/职业规划/attachment/Houdini程序化生成实习要求.png"
     },
     {
-      "basename": "Tools",
-      "path": "Private/Tools/Tools.md"
+      "basename": "计算机图形学路线图",
+      "path": "Private/职业规划/attachment/计算机图形学路线图.jpg"
     },
     {
-      "basename": "MyWebTool",
-      "path": "Private/Tools/MyWebTool.md"
+      "basename": "莉莉丝TA技术美术实习要求",
+      "path": "Private/职业规划/attachment/莉莉丝TA技术美术实习要求.png"
     },
     {
-      "basename": "MySoftTool",
-      "path": "Private/Tools/MySoftTool.md"
+      "basename": "计算机科学路线图",
+      "path": "Private/职业规划/attachment/计算机科学路线图.png"
     },
     {
       "basename": "个人Windows操作系统硬盘管理规范",
       "path": "Private/Tools/个人Windows操作系统硬盘管理规范.md"
     },
     {
+      "basename": "Windows默认文件系统结构",
+      "path": "CS/OperationSystem/Windows/Windows默认文件系统结构.md"
+    },
+    {
+      "basename": "换网卡前 2025-06-15 184427",
+      "path": "Private/DailyNote/attachment/换网卡前 2025-06-15 184427.png"
+    },
+    {
+      "basename": "MFC期末复习",
+      "path": "Temp/MFC期末复习.md"
+    },
+    {
+      "basename": "2025-06-14",
+      "path": "Private/DailyNote/2025-06-14.md"
+    },
+    {
+      "basename": "CSharp的反射",
+      "path": "CS/CodeLanguege/CSharp/CSharp的反射.md"
+    },
+    {
+      "basename": "CSharp-不安全代码",
+      "path": "CS/CodeLanguege/CSharp/CSharp-不安全代码.md"
+    },
+    {
       "basename": "2025-06-13",
       "path": "Private/DailyNote/2025-06-13.md"
     },
     {
-      "basename": "使用位运算和枚举类型实现多状态记录",
-      "path": "CS/CodeLanguege/使用位运算和枚举类型实现多状态记录.md"
-    },
-    {
-      "basename": "python的enumerate",
-      "path": "CS/CodeLanguege/Python/python的enumerate.md"
-    },
-    {
-      "basename": "20设备和驱动程序",
-      "path": "CS/OperationSystem/南京大学2025操作系统/持久化/20设备和驱动程序.md"
-    },
-    {
-      "basename": "AddressablesPackage 概述",
-      "path": "GameDeveloper/GameEngine/Unity/引擎知识/资源加载/AddressablesPackage 概述.md"
-    },
-    {
-      "basename": "Unity都有哪些打包方法",
-      "path": "GameDeveloper/GameEngine/Unity/引擎知识/资源加载/Unity都有哪些打包方法.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "GameDeveloper/GameEngine/Unity/引擎知识/资源加载/未命名.md"
-    },
-    {
-      "basename": "UniTask",
-      "path": "GameDeveloper/GameEngine/Unity/引擎知识/异步/UniTask.md"
+      "basename": "2025-06-12",
+      "path": "Private/DailyNote/2025-06-12.md"
     },
     {
       "basename": "2025-06-11",
@@ -193,12 +177,28 @@
       "path": "Private/DailyNote/2025-06-10.md"
     },
     {
-      "basename": "提示词教程仓库",
-      "path": "CS/AI/AI提示词/提示词教程仓库.md"
+      "basename": "2025-06-09",
+      "path": "Private/DailyNote/2025-06-09.md"
     },
     {
-      "basename": "提示工程指南",
-      "path": "CS/AI/AI提示词/提示工程指南.md"
+      "basename": "2025-06-08",
+      "path": "Private/DailyNote/2025-06-08.md"
+    },
+    {
+      "basename": "2025-06-07",
+      "path": "Private/DailyNote/2025-06-07.md"
+    },
+    {
+      "basename": "2025-06-06",
+      "path": "Private/DailyNote/2025-06-06.md"
+    },
+    {
+      "basename": "2025-05-03",
+      "path": "Private/DailyNote/2025-05-03.md"
+    },
+    {
+      "basename": "2025-05-02",
+      "path": "Private/DailyNote/2025-05-02.md"
     }
   ],
   "omittedPaths": [],

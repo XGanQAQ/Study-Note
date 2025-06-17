@@ -6,11 +6,6 @@
       "path": "Tattle/Ideas/Survivor Camp/末日幸存者开发日志.md"
     },
     {
-      "type": "folder",
-      "ctime": 1741341160527,
-      "path": "CS/OperationSystem/南京大学2024操作系统"
-    },
-    {
       "type": "file",
       "ctime": 1741772665610,
       "path": "Private/学习计划.md"
@@ -19,6 +14,11 @@
       "type": "folder",
       "ctime": 1747611752395,
       "path": "Private/我的自媒体"
+    },
+    {
+      "type": "folder",
+      "ctime": 1750142528298,
+      "path": "CS/OperationSystem"
     }
   ]
 }

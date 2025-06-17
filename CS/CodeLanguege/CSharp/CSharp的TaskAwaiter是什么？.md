@@ -1,3 +1,8 @@
+---
+tags:
+  - "#CSharp"
+---
+
 在 C# 中，`TaskAwaiter` 是 `async` 和 `await` 机制的核心组成部分，但它通常不是我们直接使用的类型。它是一种编译器生成的结构体，用于支持 `await` 关键字的操作。
 
 简单来说，当你使用 `await` 关键字等待一个 `Task`（或任何实现了“awaitable”模式的类型）时，编译器会在幕后将其转换为对 `TaskAwaiter` 实例的调用。

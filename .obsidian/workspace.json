@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "268f44e9cf57d6eb",
+        "id": "3aaa7dc03ba32a95",
         "type": "tabs",
         "children": [
           {
-            "id": "b3657cde12d27320",
+            "id": "21b8b775c6ffc7d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Tools/MyIDEConfig.md",
+                "file": "CS/OperationSystem/南京大学2025操作系统/持久化/21-存储设备原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MyIDEConfig"
+              "title": "21-存储设备原理"
             }
           },
           {
-            "id": "036cb62df9e3894b",
+            "id": "de2e082e27180569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDeveloper/GDCReference/GDC25-The-Four-One-Page-Design-Docs-You-Need (And How to Use Them).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GDC25-The-Four-One-Page-Design-Docs-You-Need (And How to Use Them)"
+            }
+          },
+          {
+            "id": "eabef7f47528e54e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +48,8 @@
               "icon": "lucide-file",
               "title": "Resume陈正刚简历_1.1.0_结合修正版"
             }
-          },
-          {
-            "id": "04dce584176953c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Tool/GIT/GIT_提交规范.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GIT_提交规范"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +61,7 @@
       {
         "id": "7391f01fbf9a977f",
         "type": "tabs",
-        "dimension": 74.1267787839586,
+        "dimension": 73.09184993531694,
         "children": [
           {
             "id": "a71b26351dd28831",
@@ -99,7 +98,7 @@
       {
         "id": "5fc3480f8e58dcd8",
         "type": "tabs",
-        "dimension": 25.873221216041397,
+        "dimension": 26.90815006468305,
         "children": [
           {
             "id": "acf579710421cae3",
@@ -121,7 +120,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +134,7 @@
       {
         "id": "c5dd4e51c92f6e0a",
         "type": "tabs",
-        "dimension": 44.41176470588235,
+        "dimension": 43.504901960784316,
         "children": [
           {
             "id": "5b225d4c7ef635be",
@@ -142,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Tool/GIT/GIT_提交规范.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GIT_提交规范 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -199,12 +198,13 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "edd44ff64f9ed1c2",
         "type": "tabs",
-        "dimension": 55.58823529411765,
+        "dimension": 56.495098039215684,
         "children": [
           {
             "id": "e78763d85e20f35d",
@@ -241,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,57 +258,57 @@
   },
   "active": "a75fea8be172c2e1",
   "lastOpenFiles": [
-    "Private/DailyNote/2025-06-14.md",
-    "CS/Tool/GIT/GIT_提交规范.md",
-    "CS/OperationSystem/Linux/Linux的文件目录系统.md",
-    "Private/Tools/MyIDEConfig.md",
-    "Private/DailyNote/2025-06-12.md",
-    "GameDeveloper/ProjectManage/PlANKA_ElegantOpenSourceProjectTracking.md",
-    "GameDeveloper/ProjectManage/Taiga_OpensourceAgileProjectManagementSoftware.md",
-    "GameDeveloper/ProjectManage/Worktile_项目协作工具.md",
-    "GameDeveloper/ProjectManage/Trello_实现工作流看板.md",
-    "GameDeveloper/ProjectManage/Jira_事务与项目跟踪软件.md",
-    "GameDeveloper/ProjectManage/Perforce Helix Core.md",
-    "GameDeveloper/ProjectManage/SVN和GIT综合管理游戏项目.md",
-    "GameDeveloper/ProjectManage/SVN.md",
-    "CS/Tool/GIT/GIT.md",
-    "CS/Tool/SVN/TortoiseSVN _Apache™ Subversion (SVN)® 客户端.md",
-    "CS/Tool/GIT/GIT_rebase和merge的区别.md",
-    "CS/Tool/Git/未命名.md",
-    "CS/Tool/GIT/GIT_fetch和pull的区别.md",
-    "CS/Tool/SVN/自建SVN.md",
-    "CS/Tool/SVN/SVN是什么？.md",
-    "CS/Tool/SVN",
-    "CS/Tool/Tool.md",
-    "CS/Tool/GIT",
+    "GameDeveloper/GameEngine/Unreal/Unreal.md",
+    "Private/职业规划/技术美术TA.md",
+    "GameDeveloper/GDCReference/GDC25-The-Four-One-Page-Design-Docs-You-Need (And How to Use Them).md",
+    "Private/简历/Resume陈正刚简历_1.1.0_结合修正版.md",
+    "GameDeveloper/GDCReference/GDC17-快速原型的漫游指南.md",
+    "GameDeveloper/GDCReference/GDC2025_新虚幻引擎开发者速成课程Crash Course for New Unreal Engine Developers.md",
+    "Private/DailyNote/2025-06-17.md",
+    "GameDeveloper/GDCReference",
+    "Private/DailyNote/2025-06-16.md",
+    "CS/OperationSystem/南京大学2025操作系统/持久化/21-存储设备原理.md",
+    "CS/OperationSystem/南京大学2025操作系统/持久化/20-设备和驱动程序.md",
+    "Private/DailyNote/2025-06-15.md",
+    "GameDeveloper/TechnicalDirector/Excel工具.md",
+    "GameDeveloper/TechnicalDirector/技术策划的职责.md",
+    "GameDeveloper/TechnologyArtist/HowToBuildScene.md",
+    "GameDeveloper/TechnologyArtist/PCG/WhatIsPCG.md",
+    "GameDeveloper/TechnologyArtist/PCG/PCGAlgo.md",
+    "GameDeveloper/TechnologyArtist/GetStartedWithShader/02数学基础知识.md",
+    "GameDeveloper/TechnologyArtist/GetStartedWithShader/01基础理论知识.md",
+    "GameDeveloper/TechnologyArtist/GetStartedWithShader/00背景概述.md",
+    "GameDeveloper/TechnologyArtist/Billboard/Billboard广告牌.md",
     "GameDeveloper/ProjectManage/GTD_把事情做完.md",
+    "GameDeveloper/TechnicalDirector",
+    "GameDeveloper/ProjectManage/未命名.md",
     "GameDeveloper/ProjectManage/OKR_目标与关键成果法.md",
-    "Private/Tasks/GTD/今日待办.md",
+    "GameDeveloper/GameEngine/Unity/Unity.md",
+    "Private/职业规划/技术策划TD.md",
+    "Private/职业规划/独立项目落地全指南：从原型到团队协作的实战策略.md",
+    "Private/职业规划/attachment/Houdini程序化生成实习要求.png",
+    "Private/职业规划/attachment/计算机图形学路线图.jpg",
+    "Private/职业规划/attachment/莉莉丝TA技术美术实习要求.png",
+    "Private/职业规划/attachment/计算机科学路线图.png",
+    "Private/职业规划/attachment",
+    "Private/DailyNote/attachment/8852CE.jpg",
+    "Private/DailyNote/attachment/AW210.jpg",
+    "Private/DailyNote/attachment/换网卡后 2025-06-15 191749.png",
+    "Private/DailyNote/attachment/换网卡前 2025-06-15 184427.png",
+    "Private/DailyNote/attachment/群友的天选air2025配置.png",
+    "CS/Tool/SVN",
+    "CS/Tool/GIT",
     "GameDeveloper/ProjectManage",
-    "Private/职业规划/未来五年的职业规划_2025_游戏开发图形学工程师之路_300字.md",
-    "Private/职业规划/未来五年的职业规划_2025_游戏开发图形学工程师之路.md",
-    "Private/职业规划/Houdini程序化生成实习要求.png",
     "GameDeveloper/GameEngine/Unity/引擎知识/异步",
     "GameDeveloper/GameEngine/Unity/引擎知识/资源加载",
     "CS/AI/AI提示词/attachment/c0140eae524b435e1363dfcf4d2283c7.jpg",
     "CS/AI/AI提示词/attachment",
-    "Private/DailyNote/attachment/Pasted image 20250611120217.png",
-    "Private/DailyNote/attachment/屏幕截图 2025-06-11 082600.png",
     "Private/DailyNote/attachment",
     "Private/Tasks/TaskShow.canvas",
-    "CS/ComputerGraphy/图形编程实践",
-    "CS/ComputerGraphy/渲染",
-    "CS/ProgrammingParadigms/Object-OrientedProgramming",
     "CS/Alogrithm/算法学习.canvas",
     "Private/ProjectIdeas/AI Game/游戏界面.canvas",
-    "Private/职业规划/莉莉丝TA技术美术实习要求.png",
-    "Private/职业规划/计算机图形学路线图.jpg",
-    "Private/职业规划/计算机科学路线图.png",
     "Private/未命名.canvas",
     "Private/Templat/未命名.canvas",
-    "CS/Tool/Vim/vi-vim-cheat-sheet-sch1.gif",
-    "CS/Tool/Vscode/Pasted image 20250524230837.png",
-    "CS/Tool/Vscode/Pasted image 20250524230802.png",
     "GameDeveloper/GameProgramGenerate/游戏的程序化生成.canvas",
     "未命名.canvas",
     "未命名 1.canvas",

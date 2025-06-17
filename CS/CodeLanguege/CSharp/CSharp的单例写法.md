@@ -1,3 +1,8 @@
+---
+tags:
+  - "#CSharp"
+---
+
 Lazy法
 ```csharp
 using System;

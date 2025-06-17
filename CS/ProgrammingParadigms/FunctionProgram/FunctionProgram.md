@@ -21,7 +21,7 @@
 - [lambda算法与图灵机](lambda算法与图灵机.md)
 
 ## 语言实践
-[[CSharp函数式编程]]
+[[CSharp的函数式编程]]
 
 
 
